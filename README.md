@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Akash Kumar<br><br>Aspiring Developer | Competitive Programmer | <br>Experienced with Programming Languages like C,C++ and Python with a bit knowledge of DBMS.<br><br>🔭I’m currently working on my development skills and various projects.<br>🌱 I’m currently learning JavaScript | ML.<br>👯 I’m looking to collaborate on some Front-End Designs for Website.<br>💬 Ask me about Web Development.<br>📫 Reach me at kumaraadarsh8318@gmail.com
+Hi 👋, I'm Mohan Choudhary<br><br>Aspiring Developer | Competitive Programmer | <br>Experienced with Programming Languages like C,C++ and Python with a bit knowledge of DBMS.<br><br>🔭I’m currently working on my development skills and various projects.<br>🌱 I’m currently learning JavaScript | ML.<br>👯 I’m looking to collaborate on some Front-End Designs for Website.<br>💬 Ask me about Web Development.<br>📫 Reach me at mohan9828itc@gmail.com
 
 
 ## 🌐 Socials:
