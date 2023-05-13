@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **c/c++/java**
+- 💬 Ask me about **c/c++/java/Python**
 
 - 📫 How to reach me **mohan9828itc@gmail.com**
 
